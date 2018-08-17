@@ -1,4 +1,5 @@
 #pip install requests
+#pip install beautifulsoup4
 import requests
 from bs4 import BeautifulSoup
 r = requests.get('https://codingeverybody.github.io/scraping_sample/1.html')
